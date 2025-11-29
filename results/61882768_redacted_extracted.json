@@ -1,0 +1,90 @@
+[
+  {
+    "identifier": "1Z8028100495457854",
+    "invoice_page": 2,
+    "shipment_date": "2025-09-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "OBERSCHLEISSHEIM",
+    "origin_zipcode": "85764",
+    "destination_country": "CN",
+    "destination_city": "HUIZHOU",
+    "destination_zipcode": "516001",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 122.1,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 244,25 122,15 122,10"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 36.25,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 72,30 36,05 36,25"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 0.85,
+        "currency": "CHF",
+        "mention": "Surge Fee - Firmenkunden 0,85 0,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z8028100498185802",
+    "invoice_page": 2,
+    "shipment_date": "2025-01-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "OBERSCHLEISSHEIM",
+    "origin_zipcode": "85764",
+    "destination_country": "HK",
+    "destination_city": "HONG KONG",
+    "destination_zipcode": "33900",
+    "gross_weight": 9.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 252.05,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 504,15 252,10 252,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 22.55,
+        "currency": "CHF",
+        "mention": "Gebühr Zölle und Steuern 22,55 22,55"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 75.55,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 149,90 74,35 75,55"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 4.05,
+        "currency": "CHF",
+        "mention": "Surge Fee - Firmenkunden 4,05 4,05"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 111.8,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag(2) 222,20 110,40 111,80"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4239 @@
+[
+  {
+    "identifier": "1Z7A16000490309356",
+    "invoice_page": 2,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "WARSZAWA",
+    "destination_zipcode": "01040",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 17.5,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 17,50 17,50"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 2.8,
+        "currency": "CHF",
+        "mention": "Zoll 2,80 2,80"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490710653",
+    "invoice_page": 2,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 95.7,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 95,70 95,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491187423",
+    "invoice_page": 2,
+    "shipment_date": "2025-11-23",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 6,60 6,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491283131",
+    "invoice_page": 3,
+    "shipment_date": "2025-11-28",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.1,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,10 18,10"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 20.65,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 20,65 20,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491287271",
+    "invoice_page": 3,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "GOSLAR",
+    "destination_zipcode": "38644",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.75,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 6,75 6,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491349516",
+    "invoice_page": 3,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,55 5,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491677680",
+    "invoice_page": 4,
+    "shipment_date": "2025-11-23",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.2,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,20 6,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491856521",
+    "invoice_page": 4,
+    "shipment_date": "2025-11-22",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 125.6,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 125,60 125,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492131123",
+    "invoice_page": 4,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,55 5,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492137289",
+    "invoice_page": 5,
+    "shipment_date": "2025-11-20",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "SAINT PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 24.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 15.1,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 15,10 15,10"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492453339",
+    "invoice_page": 5,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 40.8,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 40,80 40,80"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 2.9,
+        "currency": "CHF",
+        "mention": "SKR 2,90 2,90"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492675153",
+    "invoice_page": 5,
+    "shipment_date": "2025-11-25",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 26.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492688845",
+    "invoice_page": 6,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "WEYHE",
+    "destination_zipcode": "28844",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492994620",
+    "invoice_page": 6,
+    "shipment_date": "2025-11-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,60 6,60"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 48.15,
+        "currency": "CHF",
+        "mention": "Warehouse Fees 48,15 48,15"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493038232",
+    "invoice_page": 6,
+    "shipment_date": "2025-11-28",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "DRESDEN",
+    "destination_zipcode": "01109",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493107747",
+    "invoice_page": 7,
+    "shipment_date": "2025-11-25",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 21.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493223826",
+    "invoice_page": 7,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "WATERINGEN 2292JC NIEDERLANDE",
+    "destination_zipcode": null,
+    "gross_weight": 34.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493648056",
+    "invoice_page": 7,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "ALTHOFEN",
+    "destination_zipcode": "9330",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 9.5,
+        "currency": "CHF",
+        "mention": "Versender Warehouse Fees 9,50 9,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494111025",
+    "invoice_page": 8,
+    "shipment_date": "2025-11-20",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "L ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 6,60 6,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494562253",
+    "invoice_page": 8,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "HANNOVER",
+    "destination_zipcode": "30165",
+    "gross_weight": 34.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494869762",
+    "invoice_page": 8,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "EINBECK",
+    "destination_zipcode": "37574",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495441542",
+    "invoice_page": 9,
+    "shipment_date": "2025-11-25",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "VERTRIEB MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 34.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495620830",
+    "invoice_page": 9,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.2,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,20 16,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495972157",
+    "invoice_page": 9,
+    "shipment_date": "2025-11-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.25,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,25 6,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496374524",
+    "invoice_page": 10,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "WATERINGEN 2292JC NIEDERLANDE",
+    "destination_zipcode": null,
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496566362",
+    "invoice_page": 10,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.1,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,10 18,10"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 40.05,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 40,05 40,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496941358",
+    "invoice_page": 10,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 84.4,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 84,40 84,40"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496942811",
+    "invoice_page": 11,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 91.7,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 91,70 91,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497315934",
+    "invoice_page": 11,
+    "shipment_date": "2025-11-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 7.6,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 7,60 7,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497803951",
+    "invoice_page": 11,
+    "shipment_date": "2025-11-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "ST HERBLAIN",
+    "destination_zipcode": "44800",
+    "gross_weight": 25.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 14.2,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 14,20 14,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497813280",
+    "invoice_page": 12,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "OOSTERHOUT NB 4906BA NIEDERLANDE",
+    "destination_zipcode": null,
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497961647",
+    "invoice_page": 12,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 4.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 75.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 75,95 75,95"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498006865",
+    "invoice_page": 12,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 26.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 291.25,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 291,25 291,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498162142",
+    "invoice_page": 13,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BHCOKG KARLSRUHE",
+    "destination_zipcode": "76228",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Transit Gebuehren",
+        "total_cost_in_shipment_currency": 50.2,
+        "currency": "CHF",
+        "mention": "Versender Transit Gebuehren 50,20 50,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498322095",
+    "invoice_page": 13,
+    "shipment_date": "2025-11-28",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "HAMBURG",
+    "destination_zipcode": "21079",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498726622",
+    "invoice_page": 13,
+    "shipment_date": "2025-11-28",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "MBH DORNBIRN",
+    "destination_zipcode": "6850",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498759016",
+    "invoice_page": 14,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 40.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498773401",
+    "invoice_page": 14,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BRAUNSCHWEIG",
+    "destination_zipcode": "38114",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499037517",
+    "invoice_page": 14,
+    "shipment_date": "2025-11-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 4.75,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 4,75 4,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499405619",
+    "invoice_page": 15,
+    "shipment_date": "2025-11-18",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "L ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.25,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,25 6,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499863062",
+    "invoice_page": 15,
+    "shipment_date": "2025-12-03",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "WATERINGEN 2292JC NIEDERLANDE",
+    "destination_zipcode": null,
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 14.25,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 14,25 14,25"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 45.4,
+        "currency": "CHF",
+        "mention": "Zoll 45,40 45,40"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006892348593",
+    "invoice_page": 15,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "HNOLOGY AS PA ODENSE S DÄNEMARK",
+    "destination_zipcode": "5220",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.65,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,65 6,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006695759898",
+    "invoice_page": 16,
+    "shipment_date": "2025-11-07",
+    "shipment_type": "Express",
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z7A16006695759898",
+    "invoice_page": 16,
+    "shipment_date": "2024-11-16",
+    "shipment_type": null,
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": "KAUNAS LITAUEN",
+    "destination_zipcode": null,
+    "gross_weight": null,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 23.75,
+        "currency": "CHF",
+        "mention": "Versender Brokerage Fees 23,75 23,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490014825",
+    "invoice_page": 16,
+    "shipment_date": "2025-12-06",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "BARCELONA",
+    "destination_zipcode": "08029",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 25.65,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 25,65 25,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490282778",
+    "invoice_page": 16,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "ANNWEILER AM TRIFELS",
+    "destination_zipcode": "76855",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.75,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 6,75 6,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490361914",
+    "invoice_page": 17,
+    "shipment_date": "2025-12-03",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "NUERNBERG",
+    "destination_zipcode": "90427",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.75,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 6,75 6,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490578422",
+    "invoice_page": 17,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "HOPPEGARTEN",
+    "destination_zipcode": "15366",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491102022",
+    "invoice_page": 17,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 19.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.1,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,10 18,10"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 78.7,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 78,70 78,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491521463",
+    "invoice_page": 18,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "MOSCAVIDE PORTUGAL",
+    "destination_zipcode": "1885091",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491609977",
+    "invoice_page": 18,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "DORNSTETTEN",
+    "destination_zipcode": "72280",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 29.8,
+        "currency": "CHF",
+        "mention": "Versender Warehouse Fees 29,80 29,80"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 3.45,
+        "currency": "CHF",
+        "mention": "Gebühr Pre-Release 3,45 3,45"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491632209",
+    "invoice_page": 18,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "WALL LAUPHEIM",
+    "destination_zipcode": "88471",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491750699",
+    "invoice_page": 19,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491758066",
+    "invoice_page": 19,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 10.35,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 10,35 10,35"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491851955",
+    "invoice_page": 19,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 13.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 207.9,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 207,90 207,90"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492619053",
+    "invoice_page": 20,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 26.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 137.6,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 137,60 137,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492907885",
+    "invoice_page": 20,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "L ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 4.7,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 4,70 4,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493411220",
+    "invoice_page": 20,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "WATERINGEN 2292JC NIEDERLANDE",
+    "destination_zipcode": null,
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493460605",
+    "invoice_page": 21,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS",
+    "destination_zipcode": "28108",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 56.7,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 56,70 56,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493791776",
+    "invoice_page": 21,
+    "shipment_date": "2025-11-26",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 5.65,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 5,65 5,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494326400",
+    "invoice_page": 21,
+    "shipment_date": "2025-12-08",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "WANZLEBEN BOERDE",
+    "destination_zipcode": "39164",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 68.45,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 68,45 68,45"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494966371",
+    "invoice_page": 22,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS",
+    "destination_zipcode": "28108",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.1,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,10 18,10"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 127.1,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 127,10 127,10"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495103176",
+    "invoice_page": 22,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "MOSCAVIDE PORTUGAL",
+    "destination_zipcode": "1885091",
+    "gross_weight": 23.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495351167",
+    "invoice_page": 22,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 85.75,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 85,75 85,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495389805",
+    "invoice_page": 23,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 110.0,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 110,00 110,00"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495695966",
+    "invoice_page": 23,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.15,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,15 16,15"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496622925",
+    "invoice_page": 23,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "BOURBON L ARCHAMBAULT",
+    "destination_zipcode": "03160",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.45,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,45 16,45"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 1.9,
+        "currency": "CHF",
+        "mention": "Zoll 1,90 1,90"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496662427",
+    "invoice_page": 24,
+    "shipment_date": "2025-11-27",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "L ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.2,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,20 6,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496893900",
+    "invoice_page": 24,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "FREIBURG",
+    "destination_zipcode": "79115",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Transit Gebuehren",
+        "total_cost_in_shipment_currency": 50.1,
+        "currency": "CHF",
+        "mention": "Versender Transit Gebuehren 50,10 50,10"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496965458",
+    "invoice_page": 24,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "NEUKIRCHEN-VLUYN",
+    "destination_zipcode": "47506",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.75,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 6,75 6,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497447622",
+    "invoice_page": 25,
+    "shipment_date": "2025-12-06",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 58.85,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 58,85 58,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497703569",
+    "invoice_page": 25,
+    "shipment_date": "2025-12-06",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 53.65,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 53,65 53,65"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 3.85,
+        "currency": "CHF",
+        "mention": "SKR 3,85 3,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497991570",
+    "invoice_page": 25,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "WEIL AM RHEIN",
+    "destination_zipcode": "79576",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498442545",
+    "invoice_page": 26,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BARSBUETTEL",
+    "destination_zipcode": "22885",
+    "gross_weight": 40.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 13.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 13,95 13,95"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 55.2,
+        "currency": "CHF",
+        "mention": "Zoll 55,20 55,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498685953",
+    "invoice_page": 26,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "WUERZBURG",
+    "destination_zipcode": "97080",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498735210",
+    "invoice_page": 26,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 56.55,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 56,55 56,55"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 4.05,
+        "currency": "CHF",
+        "mention": "SKR 4,05 4,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498773036",
+    "invoice_page": 27,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "ELBLAG",
+    "destination_zipcode": "82300",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 17.5,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 17,50 17,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499279220",
+    "invoice_page": 27,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 114.55,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 114,55 114,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499350053",
+    "invoice_page": 27,
+    "shipment_date": "2025-12-09",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 11.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,60 5,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499365734",
+    "invoice_page": 28,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "WARSZAWA",
+    "destination_zipcode": "01040",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 99.35,
+        "currency": "CHF",
+        "mention": "Versender Verzollungsgebühr 99,35 99,35"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 25.3,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 25,30 25,30"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499469300",
+    "invoice_page": 28,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "KATOWICE",
+    "destination_zipcode": "40599",
+    "gross_weight": 32.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 43.85,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 43,85 43,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499605206",
+    "invoice_page": 28,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "SAINT PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 5.65,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 5,65 5,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499822089",
+    "invoice_page": 29,
+    "shipment_date": "2025-12-09",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 86.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 5,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.15,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,15 16,15"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499846232",
+    "invoice_page": 29,
+    "shipment_date": "2025-12-09",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 39.3,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 39,30 39,30"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006890036549",
+    "invoice_page": 29,
+    "shipment_date": "2025-12-06",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "HNOLOGY AS PA ODENSE SOE DÄNEMARK",
+    "destination_zipcode": "5220",
+    "gross_weight": 2.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,60 6,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006891504577",
+    "invoice_page": 30,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SBORG DÄNEMARK",
+    "destination_zipcode": "2860",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,60 6,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006894428494",
+    "invoice_page": 30,
+    "shipment_date": "2025-09-02",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "TROSTBERG",
+    "destination_zipcode": "83308",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006693923669",
+    "invoice_page": 30,
+    "shipment_date": "2025-11-04",
+    "shipment_type": "Express",
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z7A16006693923669",
+    "invoice_page": 30,
+    "shipment_date": "2024-11-23",
+    "shipment_type": null,
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG REPUBLIK",
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": "RO TRNAVA SLOWAKISCHE REPUBLIK",
+    "destination_zipcode": null,
+    "gross_weight": null,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 28.25,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 28,25 28,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490396477",
+    "invoice_page": 31,
+    "shipment_date": "2025-12-12",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 48.5,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 48,50 48,50"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 3.45,
+        "currency": "CHF",
+        "mention": "SKR 3,45 3,45"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490409882",
+    "invoice_page": 31,
+    "shipment_date": "2025-12-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "FREIGERICHT",
+    "destination_zipcode": "63579",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490559112",
+    "invoice_page": 31,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 14.4,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 14,40 14,40"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 0.7,
+        "currency": "CHF",
+        "mention": "SKR 0,70 0,70"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 5.95,
+        "currency": "CHF",
+        "mention": "Zoll 5,95 5,95"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490847668",
+    "invoice_page": 32,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 12.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.4,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,40 16,40"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491068758",
+    "invoice_page": 32,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "NUERNBERG",
+    "destination_zipcode": "90427",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 13.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 13,95 13,95"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491281651",
+    "invoice_page": 32,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 39.3,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 39,30 39,30"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491914539",
+    "invoice_page": 33,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "ERFURT",
+    "destination_zipcode": "99086",
+    "gross_weight": 24.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492203180",
+    "invoice_page": 33,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "L ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 11.25,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 11,25 11,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492523898",
+    "invoice_page": 33,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "AT",
+    "destination_city": "WIEN",
+    "destination_zipcode": "1100",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 14.4,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 14,40 14,40"
+      },
+      {
+        "extracted_category": "SKR",
+        "total_cost_in_shipment_currency": 0.7,
+        "currency": "CHF",
+        "mention": "SKR 0,70 0,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492579436",
+    "invoice_page": 34,
+    "shipment_date": "2025-12-09",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "NORDERSTEDT",
+    "destination_zipcode": "22844",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492590057",
+    "invoice_page": 34,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 43.7,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 43,70 43,70"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492605344",
+    "invoice_page": 34,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 40.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492779685",
+    "invoice_page": 35,
+    "shipment_date": "2025-12-12",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS",
+    "destination_zipcode": "28108",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.05,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,05 18,05"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 119.6,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 119,60 119,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493160322",
+    "invoice_page": 35,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "WARSZAWA",
+    "destination_zipcode": "01040",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 17.65,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 17,65 17,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493466716",
+    "invoice_page": 35,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "WARSZAWA",
+    "destination_zipcode": "01040",
+    "gross_weight": 21.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 99.95,
+        "currency": "CHF",
+        "mention": "Versender Verzollungsgebühr 99,95 99,95"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 17.65,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 17,65 17,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494020061",
+    "invoice_page": 36,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "MOSCAVIDE PORTUGAL",
+    "destination_zipcode": "1885091",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494477417",
+    "invoice_page": 36,
+    "shipment_date": "2025-12-08",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "DEGGENDORF",
+    "destination_zipcode": "94469",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 3.4,
+        "currency": "CHF",
+        "mention": "Gebühr Pre-Release 3,40 3,40"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494680081",
+    "invoice_page": 36,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "MOSCAVIDE PORTUGAL",
+    "destination_zipcode": "1885091",
+    "gross_weight": 15.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494715856",
+    "invoice_page": 37,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "G-ESSEN ESSEN",
+    "destination_zipcode": "45127",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495598937",
+    "invoice_page": 37,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.65,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,65 5,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495680472",
+    "invoice_page": 37,
+    "shipment_date": "2025-12-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "ALMUNGE SCHWEDEN",
+    "destination_zipcode": "74197",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": 74197.0,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.3,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,30 5,30"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495763945",
+    "invoice_page": 38,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 7.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.15,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,15 16,15"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496190884",
+    "invoice_page": 38,
+    "shipment_date": "2025-12-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "BARCELONA",
+    "destination_zipcode": "08029",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 16.4,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 16,40 16,40"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496384568",
+    "invoice_page": 38,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "MOSCAVIDE PORTUGAL",
+    "destination_zipcode": "1885091",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496632325",
+    "invoice_page": 39,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BAD REICHENHALL",
+    "destination_zipcode": "83435",
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497363892",
+    "invoice_page": 39,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PT",
+    "destination_city": "LEIRIA PORTUGAL",
+    "destination_zipcode": "2415017",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Versender Geleitschein",
+        "total_cost_in_shipment_currency": 41.5,
+        "currency": "CHF",
+        "mention": "Versender Geleitschein 41,50 41,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498443795",
+    "invoice_page": 39,
+    "shipment_date": "2025-12-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "KG WAIBLINGEN",
+    "destination_zipcode": "71336",
+    "gross_weight": 1.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.75,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 6,75 6,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498454774",
+    "invoice_page": 40,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 12.2,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 12,20 12,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498488372",
+    "invoice_page": 40,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 13.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 13,95 13,95"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 0.9,
+        "currency": "CHF",
+        "mention": "Zoll 0,90 0,90"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498656716",
+    "invoice_page": 40,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "CORNEGLIANO LAUDENSE",
+    "destination_zipcode": "26854",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 23.45,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 23,45 23,45"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 10.45,
+        "currency": "CHF",
+        "mention": "Zusätzl. Tarifpos. Gebühr 10,45 10,45"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 15.6,
+        "currency": "CHF",
+        "mention": "Zoll 15,60 15,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498887860",
+    "invoice_page": 41,
+    "shipment_date": "2025-12-10",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "PL",
+    "destination_city": "WARSZAWA",
+    "destination_zipcode": "01040",
+    "gross_weight": 74.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 5,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 17.65,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 17,65 17,65"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 121.0,
+        "currency": "CHF",
+        "mention": "Zoll 121,00 121,00"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499094714",
+    "invoice_page": 41,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ZARAGOZA",
+    "destination_zipcode": "50010",
+    "gross_weight": 32.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 27.0,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 27,00 27,00"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499360266",
+    "invoice_page": 41,
+    "shipment_date": "2025-12-12",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SOLNA SCHWEDEN",
+    "destination_zipcode": "17148",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.3,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,30 5,30"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499414967",
+    "invoice_page": 42,
+    "shipment_date": "2025-12-01",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "MUENCHEN",
+    "destination_zipcode": "80993",
+    "gross_weight": 37.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,55 6,55"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 71.55,
+        "currency": "CHF",
+        "mention": "Warehouse Fees 71,55 71,55"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 3.45,
+        "currency": "CHF",
+        "mention": "Gebühr Pre-Release 3,45 3,45"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000499517187",
+    "invoice_page": 42,
+    "shipment_date": "2025-11-29",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 8.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 16.9,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 16,90 16,90"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006896608116",
+    "invoice_page": 42,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SBORG DÄNEMARK",
+    "destination_zipcode": "2860",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,60 6,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000490691077",
+    "invoice_page": 43,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "SA DIEGEM BELGIEN",
+    "destination_zipcode": "1831",
+    "gross_weight": 56.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 143.85,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 143,85 143,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491363670",
+    "invoice_page": 43,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 10.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 5.6,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 5,60 5,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491540906",
+    "invoice_page": 43,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 3.75,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 3,75 3,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491658638",
+    "invoice_page": 44,
+    "shipment_date": "2025-12-04",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "GENAS",
+    "destination_zipcode": "69740",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 14.05,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 14,05 14,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000491740235",
+    "invoice_page": 44,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BAD AROLSEN",
+    "destination_zipcode": "34454",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 13.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 13,95 13,95"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 15.65,
+        "currency": "CHF",
+        "mention": "Zoll 15,65 15,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492075104",
+    "invoice_page": 44,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.2,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,20 6,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492444867",
+    "invoice_page": 45,
+    "shipment_date": "2025-12-19",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,60 5,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000492756726",
+    "invoice_page": 45,
+    "shipment_date": "2025-12-19",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG REPUBLIK",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "S SE PRAHA 5 TSCHECHISCHE REPUBLIK",
+    "destination_zipcode": "15000",
+    "gross_weight": 49.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 3,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 14.7,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 14,70 14,70"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 23.05,
+        "currency": "CHF",
+        "mention": "Zoll 23,05 23,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000493602229",
+    "invoice_page": 45,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BRODERSTORF",
+    "destination_zipcode": "18184",
+    "gross_weight": 2.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000494397405",
+    "invoice_page": 46,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "DRESDEN",
+    "destination_zipcode": "01109",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495126955",
+    "invoice_page": 46,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.65,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,65 5,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495443540",
+    "invoice_page": 46,
+    "shipment_date": "2025-12-12",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "ST PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 10.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.2,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,20 6,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000495799505",
+    "invoice_page": 47,
+    "shipment_date": "2025-12-19",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "ESPOO FINNLAND",
+    "destination_zipcode": "02150",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496444547",
+    "invoice_page": 47,
+    "shipment_date": "2025-12-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "HILDESHEIM",
+    "destination_zipcode": "31137",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 28.65,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 28,65 28,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000496464927",
+    "invoice_page": 47,
+    "shipment_date": "2025-12-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "IT",
+    "destination_city": "L PISA",
+    "destination_zipcode": "56121",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 7.85,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 7,85 7,85"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497111556",
+    "invoice_page": 48,
+    "shipment_date": "2025-12-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "FOR APPLIED OP JENA",
+    "destination_zipcode": "07745",
+    "gross_weight": 3.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 13.95,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 13,95 13,95"
+      },
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 1.75,
+        "currency": "CHF",
+        "mention": "Zoll 1,75 1,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497287733",
+    "invoice_page": 48,
+    "shipment_date": "2025-12-18",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "BUERO HERDWANGEN-SCHOENACH",
+    "destination_zipcode": "88634",
+    "gross_weight": 7.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497324246",
+    "invoice_page": 48,
+    "shipment_date": "2025-12-19",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "ES",
+    "destination_city": "ALCOBENDAS POLIGONO INDU",
+    "destination_zipcode": "28108",
+    "gross_weight": 7.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 18.0,
+        "currency": "CHF",
+        "mention": "Versender Zollrevision 18,00 18,00"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 47.6,
+        "currency": "CHF",
+        "mention": "Vorlageprovisionsgebühr 47,60 47,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497489113",
+    "invoice_page": 49,
+    "shipment_date": "2025-12-17",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "TOENISVORST",
+    "destination_zipcode": "47918",
+    "gross_weight": 3.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.5,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,50 6,50"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497512579",
+    "invoice_page": 49,
+    "shipment_date": "2025-12-16",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "KISTA SCHWEDEN",
+    "destination_zipcode": "16446",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 5.65,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 5,65 5,65"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000497922493",
+    "invoice_page": 49,
+    "shipment_date": "2025-12-05",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 26.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 14.05,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 14,05 14,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498014534",
+    "invoice_page": 50,
+    "shipment_date": "2025-12-11",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "NANTERRE",
+    "destination_zipcode": "92000",
+    "gross_weight": 52.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 5.6,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 5,60 5,60"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498278189",
+    "invoice_page": 50,
+    "shipment_date": "2025-12-09",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "SAINT PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 6.55,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 6,55 6,55"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498328366",
+    "invoice_page": 50,
+    "shipment_date": "2025-12-12",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "SAINT PRIEST",
+    "destination_zipcode": "69800",
+    "gross_weight": 5.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Customs",
+        "total_cost_in_shipment_currency": 11.25,
+        "currency": "CHF",
+        "mention": "Versender Customer OT 11,25 11,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498517509",
+    "invoice_page": 51,
+    "shipment_date": "2025-12-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "NEUSS",
+    "destination_zipcode": "41460",
+    "gross_weight": 39.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 32.1,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 32,10 32,10"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16000498837931",
+    "invoice_page": 51,
+    "shipment_date": "2025-09-02",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "FR",
+    "destination_city": "DUCTORS ST EGREVE",
+    "destination_zipcode": "38120",
+    "gross_weight": 6.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.2,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,20 6,20"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 1.15,
+        "currency": "CHF",
+        "mention": "Gebühr Pre-Release 1,15 1,15"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006697739085",
+    "invoice_page": 51,
+    "shipment_date": "2025-11-07",
+    "shipment_type": "Express",
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 20.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z7A16006697739085",
+    "invoice_page": 51,
+    "shipment_date": "2024-11-30",
+    "shipment_type": null,
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG REPUBLIK",
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": "RO BRATISLAVA SLOWAKISCHE REPUBLIK",
+    "destination_zipcode": null,
+    "gross_weight": null,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 69.25,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 69,25 69,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006890126095",
+    "invoice_page": 52,
+    "shipment_date": "2025-12-18",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": "DE",
+    "destination_city": "ANNWEILER AM TRIFELS",
+    "destination_zipcode": "76855",
+    "gross_weight": 20.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 95.05,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 95,05 95,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16006895724091",
+    "invoice_page": 52,
+    "shipment_date": "2025-12-19",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": "9435",
+    "destination_country": null,
+    "destination_city": "J 4 STVRING DÄNEMARK",
+    "destination_zipcode": "9530",
+    "gross_weight": 32.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 6.6,
+        "currency": "CHF",
+        "mention": "Versender Eintrittsvorbereit.Gebühr 6,60 6,60"
+      }
+    ]
+  }
+]

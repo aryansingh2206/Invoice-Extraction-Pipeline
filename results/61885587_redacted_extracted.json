@@ -1,0 +1,53 @@
+[
+  {
+    "identifier": "1Z7A16006896476723",
+    "invoice_page": 2,
+    "shipment_date": "2025-11-12",
+    "shipment_type": "Standard",
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 4.4,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z7A16006896476723",
+    "invoice_page": 2,
+    "shipment_date": "2025-01-04",
+    "shipment_type": "Domestic",
+    "currency_shipment": "CHF",
+    "origin_country": "CH",
+    "origin_city": "HEERBRUGG",
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": "HOLMROOK GROBRITANNIEN",
+    "destination_zipcode": null,
+    "gross_weight": null,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 15.3,
+        "currency": "CHF",
+        "mention": "Versender Vorlageprovisionsgebühr 15,30 15,30"
+      },
+      {
+        "extracted_category": "MWST.",
+        "total_cost_in_shipment_currency": 472.35,
+        "currency": "CHF",
+        "mention": "MWST. 472,35 472,35"
+      }
+    ]
+  }
+]

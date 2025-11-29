@@ -1,0 +1,414 @@
+[
+  {
+    "identifier": "1Z7A16009192066782",
+    "invoice_page": 2,
+    "shipment_date": "2025-01-09",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "TYCHY Zuruckgeschickt an KOELN 50829 Angefordert von HEERBRUGG 9435",
+    "origin_zipcode": "43100",
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 2.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 126.55,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 126,55 126,55"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 28.5,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 28,50 28,50"
+      },
+      {
+        "extracted_category": "Drucketikette",
+        "total_cost_in_shipment_currency": 1.25,
+        "currency": "CHF",
+        "mention": "Drucketikette 1,25 1,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z7A16009199537788",
+    "invoice_page": 2,
+    "shipment_date": "2025-01-20",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "WARSZAWA Zuruckgeschickt an KOELN 50829 Angefordert von HEERBRUGG 9435",
+    "origin_zipcode": "01040",
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 0.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 108.4,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 108,40 108,40"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 24.4,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 24,40 24,40"
+      },
+      {
+        "extracted_category": "Drucketikette",
+        "total_cost_in_shipment_currency": 1.25,
+        "currency": "CHF",
+        "mention": "Drucketikette 1,25 1,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z30V3W90499131110",
+    "invoice_page": 3,
+    "shipment_date": "2025-01-06",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "SG",
+    "origin_city": "SINGAPORE SINGAPUR",
+    "origin_zipcode": "368814",
+    "destination_country": "CH",
+    "destination_city": "ALTSTAETTEN SG",
+    "destination_zipcode": "9450",
+    "gross_weight": 2.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 78.95,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 287,70 208,75 78,95"
+      },
+      {
+        "extracted_category": "Deklarierter Wert",
+        "total_cost_in_shipment_currency": 12.0,
+        "currency": "CHF",
+        "mention": "Deklarierter Wert 12,00 12,00"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 21.95,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 87,00 65,05 21,95"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 2.25,
+        "currency": "CHF",
+        "mention": "Surge Fee - Firmenkunden 2,25 2,25"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z862A290407964132",
+    "invoice_page": 3,
+    "shipment_date": "2025-01-05",
+    "shipment_type": "Express",
+    "currency_shipment": null,
+    "origin_country": "CN",
+    "origin_city": "GUANGZHOU",
+    "origin_zipcode": "510663",
+    "destination_country": "DE",
+    "destination_city": "CO KOELN",
+    "destination_zipcode": "50829",
+    "gross_weight": 12.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 502.3,
+        "currency": null,
+        "mention": "Dritte Partei Transport 502,30 502,30"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 149.2,
+        "currency": null,
+        "mention": "Benzinzuschlag 149,20 149,20"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 21.2,
+        "currency": null,
+        "mention": "Surge Fee - Firmenkunden 21,20 21,20"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z862A290410596140",
+    "invoice_page": 3,
+    "shipment_date": null,
+    "shipment_type": null,
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 6.4,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z862A290407964132",
+    "invoice_page": 3,
+    "shipment_date": null,
+    "shipment_type": null,
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 5.1,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": []
+  },
+  {
+    "identifier": "1ZGW77756801504352",
+    "invoice_page": 4,
+    "shipment_date": "2025-01-14",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "O KG - WERK 2 MENGEN",
+    "origin_zipcode": "88512",
+    "destination_country": "CH",
+    "destination_city": "HEERBRUGG",
+    "destination_zipcode": "9435",
+    "gross_weight": 1.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 28.65,
+        "currency": "CHF",
+        "mention": "Empfänger Transport 151,55 122,90 28,65"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 5.05,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 29,55 24,50 5,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1ZGW77756813337761",
+    "invoice_page": 4,
+    "shipment_date": "2025-01-15",
+    "shipment_type": "Standard",
+    "currency_shipment": "CHF",
+    "origin_country": "DE",
+    "origin_city": "O KG - WERK 2 MENGEN",
+    "origin_zipcode": "88512",
+    "destination_country": "CH",
+    "destination_city": "HEERBRUGG",
+    "destination_zipcode": "9435",
+    "gross_weight": 1.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 28.65,
+        "currency": "CHF",
+        "mention": "Empfänger Transport 151,55 122,90 28,65"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 5.05,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 29,55 24,50 5,05"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z3RE7110498373281",
+    "invoice_page": 4,
+    "shipment_date": "2025-01-13",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CN",
+    "origin_city": "CHANGZHOU",
+    "origin_zipcode": "213023",
+    "destination_country": "CH",
+    "destination_city": "WIDNAU",
+    "destination_zipcode": "9443",
+    "gross_weight": 0.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 1,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 48.35,
+        "currency": "CHF",
+        "mention": "Dritte Partei Transport 178,50 130,15 48,35"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 13.65,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag 54,55 40,90 13,65"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 1.75,
+        "currency": "CHF",
+        "mention": "Surge Fee - Firmenkunden 1,75 1,75"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z379R696814369794",
+    "invoice_page": 5,
+    "shipment_date": "2025-01-15",
+    "shipment_type": "Standard",
+    "currency_shipment": null,
+    "origin_country": "IT",
+    "origin_city": "PISA",
+    "origin_zipcode": "56121",
+    "destination_country": "CH",
+    "destination_city": "WIDNAU",
+    "destination_zipcode": "9443",
+    "gross_weight": 60.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 2,
+    "cost_items": [
+      {
+        "extracted_category": "Freight",
+        "total_cost_in_shipment_currency": 103.15,
+        "currency": null,
+        "mention": "Empfänger Transport 544,20 441,05 103,15"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 18.1,
+        "currency": null,
+        "mention": "Benzinzuschlag 106,10 88,00 18,10"
+      }
+    ]
+  },
+  {
+    "identifier": "1Z379R696814369794",
+    "invoice_page": 5,
+    "shipment_date": null,
+    "shipment_type": null,
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 36.4,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z379R696800324205",
+    "invoice_page": 5,
+    "shipment_date": null,
+    "shipment_type": null,
+    "currency_shipment": null,
+    "origin_country": null,
+    "origin_city": null,
+    "origin_zipcode": null,
+    "destination_country": null,
+    "destination_city": null,
+    "destination_zipcode": null,
+    "gross_weight": 36.0,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": null,
+    "cost_items": []
+  },
+  {
+    "identifier": "1Z68R95R0495915783",
+    "invoice_page": 5,
+    "shipment_date": "2025-01-23",
+    "shipment_type": "Express",
+    "currency_shipment": "CHF",
+    "origin_country": "CN",
+    "origin_city": "WUHAN",
+    "origin_zipcode": "430223",
+    "destination_country": "DE",
+    "destination_city": "KOELN",
+    "destination_zipcode": "50829",
+    "gross_weight": 82.5,
+    "chargeable_weight": null,
+    "loading_meter": null,
+    "cubic_meter": null,
+    "pallet_amount": 5,
+    "cost_items": [
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 69.65,
+        "currency": "CHF",
+        "mention": "Dritte Partei Vorlageprovisionsgebühr 69,65 69,65"
+      },
+      {
+        "extracted_category": "Surcharge",
+        "total_cost_in_shipment_currency": 3.45,
+        "currency": "CHF",
+        "mention": "Gebühr Pre-Release 3,45 3,45"
+      },
+      {
+        "extracted_category": "WW Express Saver DOC 1 1",
+        "total_cost_in_shipment_currency": 48.35,
+        "currency": "CHF",
+        "mention": "WW Express Saver DOC 1 1 178,50 130,15 48,35"
+      },
+      {
+        "extracted_category": "Fuel",
+        "total_cost_in_shipment_currency": 63.8,
+        "currency": "CHF",
+        "mention": "Benzinzuschlag(5) gem. Vertrag 306,75 242,95 63,80"
+      }
+    ]
+  }
+]
