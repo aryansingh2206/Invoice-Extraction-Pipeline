@@ -106,11 +106,11 @@ This ensures downstream systems don’t need special handling.
 
 ## 6. Features
 
-### ✔ Segments invoices into multiple shipments
+###  Segments invoices into multiple shipments
 
 Even across multiple pages.
 
-### ✔ Extracts:
+###  Extracts:
 
 * Shipment identifier (UPS 1Z + fallback IDs)
 * Shipment date (German months supported)
@@ -122,7 +122,7 @@ Even across multiple pages.
 * All cost rows with amounts + categories
 * Currency detection
 
-### ✔ Handles messy real-world patterns
+###  Handles messy real-world patterns
 
 * German decimal commas
 * “Gewicht/Container 6,0/5,5”
