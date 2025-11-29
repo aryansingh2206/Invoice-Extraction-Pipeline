@@ -1,0 +1,9 @@
+pdfplumber
+PyMuPDF
+pdf2image
+pytesseract
+regex
+python-dateutil
+pycountry
+rapidfuzz
+pytest
