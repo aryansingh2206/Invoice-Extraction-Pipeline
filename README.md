@@ -58,7 +58,8 @@ debug_pdf.py            # Debug helper for segmentation
 
 ## 4. High Level Pipeline
 
-![Diagram](Pipeline diagram.png)
+![Pipeline Diagram](https://github.com/aryansingh2206/Invoice-Extraction-Pipeline/blob/main/Pipeline%20diagram.png?raw=true)
+
 
 ## 5. Design Choices
 
