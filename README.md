@@ -1,5 +1,5 @@
 
-# Invoice Extraction Pipeline — README
+# Invoice Extraction Pipeline 
 
 ## 1. Overview
 
